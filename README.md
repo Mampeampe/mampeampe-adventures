@@ -1,0 +1,2 @@
+# mampeampe-adventures
+journal
